@@ -1,10 +1,10 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/index.js":
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
+/***/ "./src/scripts/index.js":
+/*!******************************!*\
+  !*** ./src/scripts/index.js ***!
+  \******************************/
 /***/ (() => {
 
 
@@ -72,7 +72,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("d38132525adafbb637c4")
+/******/ 		__webpack_require__.h = () => ("a859a186acd939a0ee3f")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -1069,7 +1069,7 @@
 /******/ 	// module cache are used so entry inlining is disabled
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
-/******/ 	var __webpack_exports__ = __webpack_require__("./src/index.js");
+/******/ 	var __webpack_exports__ = __webpack_require__("./src/scripts/index.js");
 /******/ 	
 /******/ })()
 ;

@@ -8,7 +8,7 @@ module.exports = {
         extensions: ['.js', '.jsx', '.json'],
     },
     mode: "development",
-    entry: './src/index.js',
+    entry: './src/scripts/index.js',
     output: {
         filename: "main.js",
         path: path.resolve(__dirname, 'dist'),
