@@ -33,28 +33,30 @@ Make sure you have Node.js installed.
 ### Usage
 
 To start the development server:
-    ```bash
+    ```
     npm start
     ```
 
 ### To build the project for production:
-    ```bash
+    ```
     npm run build
     ```
 ### Project Structure
-project-starter-kit/
-├── dist/
-├── node_modules/
-├── src/
-│   ├── index.html
-│   ├── styles/
-│   │   └── main.css
-│   └── scripts/
-│       └── main.js
-├── .gitignore
-├── package.json
-├── webpack.config.js
-└── README.md
+```
+    project-starter-kit/
+    ├── dist/
+    ├── node_modules/
+    ├── src/
+    │   ├── index.html
+    │   ├── styles/
+    │   │   └── main.css
+    │   └── scripts/
+    │       └── main.js
+    ├── .gitignore
+    ├── package.json
+    ├── webpack.config.js
+    └── README.md
+```
 
 ### Contributing
 Feel free to submit issues and pull requests. For major changes, please open an issue first to discuss what you would like to change.
